@@ -5,11 +5,11 @@
 HTML: hypertext markup language 
 * Backbone of the web
 * Describes the stucture of a webpage
-* Labels pieces of content (thisi is a heade, this is text body, etc.)
+* Labels pieces of content (this is a heade, this is text body, etc.)
 
 ### HTML Elements
 
-Defined by start tag, some content, and an end tag. These can be nested within each other
+Defined by start tag, some content, and an end tag. These can be nested within each other.
 
 ```
 <tagname>Content goes here...</tagname>
