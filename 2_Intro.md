@@ -55,12 +55,37 @@ Paste the above code into VScode and save as index.html. Notice the syntax highl
 Headings are ranked by importance, from 1 to 6. More important headings appear larger
 
 ```
-<h1 Most important heading (1) </h1>
+<h1> Most important heading (1) </h1>
 <h2> Kinda important (2) </h2>
 <h3> Least important (3) </h3>
 ```
 
+### Paragraphs
 
+Paragraphs use the ```<p>``` tag
+
+```
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+```
+
+### Links
+
+Links use the <a> tag
+ 
+```
+<a href="https://www.github.com">This is a link</a>
+```
+
+### Images
+
+Images have a more complex structure. They need you to tell the code:
+* what the source image is (what the file is called on your computer) : ```src```
+* alternative text to describe the image: ```alt```
+* height you want the image to appear as: ```height```
+```
+<img src="cat.jpg" alt="Cat" width="104" height="142">
+```
 
 
 
