@@ -36,7 +36,7 @@ Defined by start tag, some content, and an end tag. These can be nested within e
 
 A web browser will show you your webpage as you intend. 
 
-Paste the above code into VScode and save as index.html. Right click it and open with your browser. 
+Paste the above code into VScode and save as index.html. Notice the syntax highlighting. Right click it and open with your browser. 
 
 ### HML Documents
 
