@@ -50,5 +50,18 @@ Paste the above code into VScode and save as index.html. Notice the syntax highl
 
 
 
+### HTML Headings
+
+Headings are ranked by importance, from 1 to 6. More important headings appear larger
+
+```
+<h1 Most important heading (1) </h1>
+<h2> Kinda important (2) </h2>
+<h3> Least important (3) </h3>
+```
+
+
+
+
 
 
