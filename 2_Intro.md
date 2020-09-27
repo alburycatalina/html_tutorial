@@ -5,7 +5,7 @@
 HTML: hypertext markup language 
 * Backbone of the web
 * Describes the stucture of a webpage
-* Labels pieces of content (this is a heade, this is text body, etc.)
+* Labels pieces of content (this is a heading, this is text body, etc.)
 
 ### HTML Elements
 
