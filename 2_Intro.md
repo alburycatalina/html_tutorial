@@ -46,4 +46,9 @@ Paste the above code into VScode and save as index.html. Notice the syntax highl
 
 * The visible part of the HTML document is between ```<body>``` and ```</body>```.
 
+### 1. Edit your webpage heading and body text.
+
+
+
+
 
